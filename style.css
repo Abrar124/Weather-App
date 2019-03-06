@@ -1,0 +1,48 @@
+  body{
+    background: linear-gradient(to right, red , rgb(255, 187, 0));
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.main{
+    background-origin: center;
+    margin: 0 auto;
+    width: 1200px;
+    height:580px;
+    margin-top: 50px;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.content{
+   font-size: 0.8cm; 
+     position: absolute; 
+    bottom: 0; 
+    color: black;
+    padding: 200px;
+    top: 8px;
+    left: 16px;
+    margin: 0 auto;
+}
+
+.weather-pic{
+    width: 700px;
+    height: 580px;
+    
+}
+
+.weather-shower{
+text-align: center;
+color: white;
+margin-left: 730px;
+font-size: 1cm;
+}
+
+.textvalue{
+    color: red;
+    display:inline-block;
+    
+}
+
